@@ -1,0 +1,10 @@
+You will need the following libraries to ensure the AI works properly:
+1) opencv-python
+2) numpy
+3) pyttsx3
+4) SpeechRecognition
+5) wikipedia-api
+6) pyjokes
+7) pyautogui
+8) ultralytics
+9) sympy
